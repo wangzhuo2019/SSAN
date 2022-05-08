@@ -1,0 +1,55 @@
+# my ignore
+results/
+*.sh
+demo.py
+
+# system ignore
+.DS_Store
+._.DS_Store
+Thumbs.db
+ 
+# temp file
+# *.png
+# *.jpg
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swap
+*.swp
+*.bk
+*.bak
+tmp*
+ 
+#package file
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.jar
+ 
+# python 
+*.egg
+*.egg-info
+*.pyc
+*.so
+*.tar.gz
+.cache
+.coverage
+.eggs
+.idea
+.mypy_cache
+.pytest_cache
+.python-version
+.tox
+.venv
+venv/
+.vscode
+MANIFEST
+__pycache__
+build/
+dist/
+htmlcov
+test/__pycache__
