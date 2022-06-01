@@ -30,7 +30,7 @@ All datasets are used as training and testing sets, simultaneously
 ### Protocol 2_1
 **Training Sets**: CASIA_MFSD, Replay_attack, SiW, Rose_Youtu, WFFD, CelebA_Spoof.
 
-**Training Sets**: MSU_MFSD, HKBU, OULU, CASIA_SURF, WMCA, CASIA_CeFA.
+**Testing Sets**: MSU_MFSD, HKBU, OULU, CASIA_SURF, WMCA, CASIA_CeFA.
 
 # Evaluation Metrics
 ## Single-Side TPR@FPR
